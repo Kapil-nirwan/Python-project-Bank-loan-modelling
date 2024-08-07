@@ -53,20 +53,25 @@ X = [4.5,6.2,7.3,9.1,10.4,11]
 8. **Give us the statistical summary for all the variables in the dataset.**
 ## Data Dictionary for Bank Personal Loan Modelling Dataset
 
-| ID               | Customer ID            |
-| Age              | Customer's age in completed years |
-| Experience       | #years of professional experience |
-| Income           | Annual income of the customer ($000) |
-| ZIPCode          | Home Address ZIP code  |
-| Family           | Family size of the customer |
-| CCAvg            | Avg. spending on credit cards per month ($000) |
-| Education        | Education Level (1: Undergrad; 2: Graduate; 3: Advanced/Professional) |
-| Mortgage         | Value of house mortgage if any ($000) |
-| Personal Loan    | Did this customer accept the personal loan offered in the last campaign? |
-| Securities Account | Does the customer have a securities account with the bank? |
-| CD Account       | Does the customer have a certificate of deposit (CD) account with the bank? |
-| Online           | Does the customer use internet banking facilities? |
-| CreditCard       | Does the customer use a credit card issued by UniversalBank? |
+## Data Dictionary for Bank Personal Loan Modelling Dataset
+
+| ID                 | Description                                                              |
+|--------------------|--------------------------------------------------------------------------|
+| Customer ID        | Unique identifier for the customer                                       |
+| Age                | Customer's age in completed years                                        |
+| Experience         | Number of years of professional experience                               |
+| Income             | Annual income of the customer ($000)                                     |
+| ZIPCode            | Home address ZIP code                                                    |
+| Family             | Family size of the customer                                              |
+| CCAvg              | Average spending on credit cards per month ($000)                        |
+| Education          | Education Level (1: Undergrad; 2: Graduate; 3: Advanced/Professional)    |
+| Mortgage           | Value of house mortgage if any ($000)                                    |
+| Personal Loan      | Did the customer accept the personal loan offered in the last campaign?  |
+| Securities Account | Does the customer have a securities account with the bank?               |
+| CD Account         | Does the customer have a certificate of deposit (CD) account with the bank?|
+| Online             | Does the customer use internet banking facilities?                       |
+| CreditCard         | Does the customer use a credit card issued by UniversalBank?             |
+
 
 9. **Evaluate the measures of central tendency and measures of dispersion for all the quantitative variables in the dataset.**
 
