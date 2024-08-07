@@ -10,12 +10,12 @@ This repository contains a set of questions related to data analysis and statist
 2. **In a residential locality, the mean size of the house is 2224 square feet and the median value of the house is 1500 square feet. What can you interpret about the skewness in the distribution of house size? Are there bigger or smaller houses in the residential locality?**
 
 3. **The following table shows the mean and variance of the expenditure for two groups of people. You want to compare the variability in expenditure for both groups with respect to their mean. Which statistical measure would you use to evaluate the variability in expenditure? Please provide an explanation for your answer.**
-                                         |   | Expenditure |  Group 1   |   Group 2|
-                                         |---|-------------|-----------------------|
-                                         | 0 |  Mean       | $5,00,000  |   $40,000|
-                                         | 1 | Std.Dev     | $1,25,000  |   $10,000|
-   
-   
+
+|   | Expenditure | Group 1   | Group 2  |
+|---|-------------|-----------|----------|
+| 0 | Mean        | $500,000  | $40,000  |
+| 1 | Std. Dev    | $125,000  | $10,000  |
+                                           
 5. **During the survey, the ages of 80 patients infected by COVID and admitted to one of the city hospitals were recorded and the collected data is represented in the less than cumulative frequency distribution table.**
 
 | Age (in years) | No. of Patients |
@@ -53,9 +53,8 @@ X = [4.5,6.2,7.3,9.1,10.4,11]
 8. **Give us the statistical summary for all the variables in the dataset.**
 ## Data Dictionary for Bank Personal Loan Modelling Dataset
 
-## Data Dictionary for Bank Personal Loan Modelling Dataset
 
-| ID                 | Description                                                              |
+| Column             | Description                                                              |
 |--------------------|--------------------------------------------------------------------------|
 | Customer ID        | Unique identifier for the customer                                       |
 | Age                | Customer's age in completed years                                        |
