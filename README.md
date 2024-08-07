@@ -10,12 +10,13 @@ This repository contains a set of questions related to data analysis and statist
 2. **In a residential locality, the mean size of the house is 2224 square feet and the median value of the house is 1500 square feet. What can you interpret about the skewness in the distribution of house size? Are there bigger or smaller houses in the residential locality?**
 
 3. **The following table shows the mean and variance of the expenditure for two groups of people. You want to compare the variability in expenditure for both groups with respect to their mean. Which statistical measure would you use to evaluate the variability in expenditure? Please provide an explanation for your answer.**
-                                         |   | Expenditure |  Group 1      Group 2|
-                                         | 0 |  Mean       | $5,00,000     $40,000|
-                                         | 1 | Std.Dev     |  $1,25,000    $10,000|
+                                         |   | Expenditure |  Group 1   |   Group 2|
+                                         |---|-------------|-----------------------|
+                                         | 0 |  Mean       | $5,00,000  |   $40,000|
+                                         | 1 | Std.Dev     | $1,25,000  |   $10,000|
    
    
-4. **During the survey, the ages of 80 patients infected by COVID and admitted to one of the city hospitals were recorded and the collected data is represented in the less than cumulative frequency distribution table.**
+5. **During the survey, the ages of 80 patients infected by COVID and admitted to one of the city hospitals were recorded and the collected data is represented in the less than cumulative frequency distribution table.**
 
 | Age (in years) | No. of Patients |
 |----------------|-----------------|
@@ -33,6 +34,7 @@ This repository contains a set of questions related to data analysis and statist
    - e. What is the median class interval of age?
 
 5. **Assume you are the trader and you have invested over the years, and you are worried about the average return on investment. What average method would you use to compute the average return for the data given below?**
+
 | Year | Return | Asset Price |
 |------|--------|-------------|
 | 2015 | 36%    | 5000        |
