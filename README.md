@@ -16,7 +16,7 @@ This repository contains a set of questions related to data analysis and statist
 | 0 | Mean        | $500,000  | $40,000  |
 | 1 | Std. Dev    | $125,000  | $10,000  |
                                            
-5. **During the survey, the ages of 80 patients infected by COVID and admitted to one of the city hospitals were recorded and the collected data is represented in the less than cumulative frequency distribution table.**
+4. **During the survey, the ages of 80 patients infected by COVID and admitted to one of the city hospitals were recorded and the collected data is represented in the less than cumulative frequency distribution table.**
 
 | Age (in years) | No. of Patients |
 |----------------|-----------------|
